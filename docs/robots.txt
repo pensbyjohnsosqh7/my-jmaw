@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pensbyjohnsosqh7.github.io/my-jmaw/sitemap.xml
